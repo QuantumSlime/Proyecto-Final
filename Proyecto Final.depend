@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1730063473 source:c:\users\mauricio\desktop\proyecto final\acudiente.cpp
+	"Acudiente.h"
+	<iostream>
+
+1730063501 c:\users\mauricio\desktop\proyecto final\acudiente.h
+	<string>
+	"Usuario.h"
+
+1730063691 c:\users\mauricio\desktop\proyecto final\usuario.h
+	<string>
+
+1730064026 source:c:\users\mauricio\desktop\proyecto final\administrador.cpp
+	"Administrador.h"
+	<iostream>
+	"Administrador.h"
+	<iostream>
+	<algorithm>
+	<limits>
+
+1730063543 c:\users\mauricio\desktop\proyecto final\administrador.h
+	"Usuario.h"
+	"Acudiente.h"
+	"Estudiante.h"
+	<vector>
+
+1730063602 c:\users\mauricio\desktop\proyecto final\estudiante.h
+	"Usuario.h"
+
+1730063627 source:c:\users\mauricio\desktop\proyecto final\estudiante.cpp
+	"Estudiante.h"
+	<iostream>
+
+1730063716 source:c:\users\mauricio\desktop\proyecto final\usuario.cpp
+	"Usuario.h"
+
+1730064489 source:c:\users\mauricio\desktop\proyecto final\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<limits>
+	<locale.h>
+	"Administrador.h"
+	"Acudiente.h"
+	"Estudiante.h"
+	"RegistroNotas.h"
+
+1730063735 source:c:\users\mauricio\desktop\proyecto final\docente.cpp
+	"Docente.h"
+	<iostream>
+
+1730063755 c:\users\mauricio\desktop\proyecto final\docente.h
+	"Usuario.h"
+
+1730063670 source:c:\users\mauricio\desktop\proyecto final\registronotas.cpp
+	"RegistroNotas.h"
+	<iostream>
+	<numeric>
+
+1730063648 c:\users\mauricio\desktop\proyecto final\registronotas.h
+	<vector>
+	<string>
+	<unordered_map>
+
